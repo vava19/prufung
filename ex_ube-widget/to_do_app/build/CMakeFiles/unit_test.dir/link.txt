@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wextra -pthread CMakeFiles/unit_test.dir/task.cpp.o CMakeFiles/unit_test.dir/unit_test.cpp.o -o unit_test  libcatch2.a 
