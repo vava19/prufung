@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wextra -pthread CMakeFiles/mythical_game.dir/app.cpp.o CMakeFiles/mythical_game.dir/mythical_game.cpp.o CMakeFiles/mythical_game.dir/unit.cpp.o CMakeFiles/mythical_game.dir/weapon.cpp.o -o mythical_game  -L/usr/lib/x86_64-linux-gnu -pthread -lwx_baseu_net-3.0 -lwx_gtk3u_core-3.0 -lwx_baseu-3.0 -lwx_gtk3u_adv-3.0 

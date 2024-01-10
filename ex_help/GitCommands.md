@@ -93,3 +93,17 @@ git merge tetris_one
 ---------------
 
 
+
+git stash    --> save working branch
+git checkout <new-branch>
+  
+git checkout <original-branch>    --> get back and apply changes
+git stash apply
+
+
+
+# delete branch
+-----------------
+
+git branch -d branch_name
+git branch -D branch_name
