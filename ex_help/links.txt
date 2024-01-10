@@ -1,0 +1,29 @@
+santa
+https://study.find-santa.eu/pos/4/
+
+santa
+https://docs.find-santa.eu/programming/cpp/
+
+
+cpp
+https://www.learncpp.com/
+
+
+python tutor
+https://pythontutor.com/render.html#mode=edit
+
+online compiler
+https://www.programiz.com/cpp-programming/online-compiler/
+
+
+wxwidget
+https://docs.wxwidgets.org/3.0/classwx_mouse_event.html
+
+
+git repo
+https://github.com/vava19/prufung
+
+
+
+bulme email:
+https://mymail.bulme.at/?_task=mail&_mbox=INBOX
