@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wextra -Wconversion -pthread CMakeFiles/app.dir/app_test.cpp.o CMakeFiles/app.dir/app.cpp.o CMakeFiles/app.dir/simple_calculator.cpp.o CMakeFiles/app.dir/calc_ui.cpp.o -o app  libcatch2.a 

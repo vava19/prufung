@@ -1,0 +1,19 @@
+Start testing: Dec 31 09:57 CET
+----------------------------------------------------------
+Unable to find executable: /home/alvin/Documents/my_projects/prufung/wx-calculator-test-vava19/build/simple_calculator_test
+1/1 Testing: simple_calculator_test
+1/1 Test: simple_calculator_test
+Command: ""
+Directory: /home/alvin/Documents/my_projects/prufung/wx-calculator-test-vava19/build
+"simple_calculator_test" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"simple_calculator_test" end time: Dec 31 09:57 CET
+"simple_calculator_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Dec 31 09:57 CET

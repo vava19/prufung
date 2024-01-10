@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wextra -pthread CMakeFiles/simple_calculator_test.dir/simple_calculator.cpp.o CMakeFiles/simple_calculator_test.dir/simple_calculator_test.cpp.o -o simple_calculator_test  libcatch2.a 
